@@ -1,0 +1,18 @@
+{
+  "frames": 136,
+  "avg_fps": 40.55343481005072,
+  "scores": {
+    "Footwork": 1,
+    "Head Position": 9,
+    "Swing Control": 9,
+    "Balance": 1,
+    "Follow-through": 8
+  },
+  "feedback": {
+    "Footwork": "Adjust front foot direction to be more open towards cover.",
+    "Head Position": "Head stacks well over front knee.",
+    "Swing Control": "Elbow elevation supports straight arc.",
+    "Balance": "Reduce excessive lateral or backward lean.",
+    "Follow-through": "Smooth acceleration into follow-through."
+  }
+}
